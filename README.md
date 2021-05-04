@@ -1,3 +1,3 @@
 # Clone Coding 2021
 
-Css got so much better!
+HTML & Css are so much fun!
